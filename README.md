@@ -41,7 +41,7 @@ All automated.
       - [Configuration](#configuration-2)
       - [Give it a try](#give-it-a-try)
     - [Setup Radarr](#setup-radarr)
-      - [Docker container](#docker-container)
+      - [Docker container](#docker-container-5)
       - [Configuration](#configuration-3)
       - [Give it a try](#give-it-a-try-1)
       - [Movie discovering](#movie-discovering)
